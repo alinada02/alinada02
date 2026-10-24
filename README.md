@@ -1,29 +1,41 @@
 # ¡Hola! Soy Brayan Nada 👋
 
-### 🚀 Desarrollador Web Frontend | Apasionado por la tecnología y soluciones digitales
+### 💻 Estudiante de Ingeniería de Software | Backend Developer
 
-Me especializo en crear aplicaciones web modernas, intuitivas y funcionales utilizando **HTML5, CSS3 y JavaScript**. Me apasiona transformar ideas complejas en experiencias de usuario sencillas e interactivas.
+Soy un apasionado del desarrollo backend y la arquitectura de sistemas. Actualmente curso el 6º semestre de Ingeniería de Software y me enfoco en crear soluciones eficientes, optimizar lógicas de negocio y gestionar bases de datos. 
+
+Me encanta resolver problemas complejos mediante código limpio y metodologías ágiles.
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+**Lenguajes:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Backend & Bases de Datos:**
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Herramientas:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📌 Proyectos Destacados (En Construcción)
+### 🚀 Proyectos Destacados
 
-* 🚗 **App Conductor Elegido:** Plataforma para solicitar choferes de reemplazo en tiempo real con geolocalización y cálculo de rutas.
-* 👤 **Control de Acceso con Reconocimiento Facial:** Aplicación web con IA e integración de cámara web usando `Face-API.js`.
-* 📊 **Dashboard de Control Financiero:** Gestor interactivo de ingresos y gastos con almacenamiento local y analíticas.
+*   🛒 **Backend de Tienda Online:** Desarrollo y despliegue del backend completo para una plataforma de comercio electrónico. *(Próximamente más detalles)*
+*   🔐 **Microservicio de Autenticación:** Diseño de un microservicio robusto y eficiente para la gestión segura de usuarios. *(Próximamente más detalles)*
+*   📦 **Sistema de Inventario:** Aplicación web para el seguimiento y control automatizado de stock en tiempo real.
 
 ---
 
-### 📫 ¡Hablemos!
-
-* 📧 **Correo:** nadabrayan@gmail.com
+### 📫 Conectemos
+*   **LinkedIn:** [Brayan Nada](https://www.linkedin.com/in/brayan-nada-60ba25205)
+*   **Email:** nadabrayan@gmail.com
